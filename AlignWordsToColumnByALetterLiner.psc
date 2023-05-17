@@ -1,4 +1,5 @@
-/// Este ejercicio es bastante sencillo si la ubicacion de las palabras de realiza al momento de la inserción, conociendo de antemano las condiciones tal como lo planteaba la consigna.
+/// Este ejercicio es bastante sencillo si la ubicacion de las palabras se realiza al momento de la inserción, conociendo de antemano las condiciones tal como lo
+/// planteaba la consigna.
 /// Más alla de esto, se presentan distintas soluciones para diversas situaciones.
 
 
