@@ -1,3 +1,6 @@
+// We have an ASCII map with high repetitive-char-segments-ratio so, only to keep the destination program neat and clean, i generate a compressed character chain.
+// Although not implemented here, just adding a header specifiyng the required destination vector dimension, this gets more flexible.
+
 Algoritmo CompresorASCII
 	Definir vector,i Como Caracter
 	Dimension vector[52]
