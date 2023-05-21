@@ -27,7 +27,7 @@ In particular, i'd like to highlight this little tricky method to find matrix di
 
  
 /// DIMC Y DIMR AUN NO LAS CONOZCO, PERO LAS PASO IGUAL PARA PODER OBTENER AMBOS VALORES EN UN MISMO SUBPROCESO ///
-´SubProceso GetColumnsTheHardWay(tablero Por Referencia, dimR Por Referencia,dimC Por Referencia)
+'SubProceso GetColumnsTheHardWay(tablero Por Referencia, dimR Por Referencia,dimC Por Referencia)
 	Definir item, safeBack, safeFront Como Caracter
  Definir founded como Logico
  Definir lenght Como Entero
@@ -58,4 +58,4 @@ In particular, i'd like to highlight this little tricky method to find matrix di
 		FinSi
 	FinPara
 	dimR=lenght/dimC
-FinFuncion´
+FinFuncion'
