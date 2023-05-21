@@ -25,8 +25,8 @@ Some stuff on PSeint at Globant+Egg QA Automation Course
 
 In particular, i'd like to highlight this little tricky method to find matrix dimension.
 Althought we start from assumptions:
-	a) We deal with a matrix (at least 2 rows and 2 columns)
-	b) The the matrix data type is known
+	*a) We deal with a matrix (at least 2 rows and 2 columns).
+	*b) The the matrix data type is known.
 	
  ```
 /// DIMC and DIMR are the ones we are looking for, but i have to pass them via reference to take back the values after ///
