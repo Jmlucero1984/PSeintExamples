@@ -11,11 +11,11 @@ Some stuff on PSeint at Globant+Egg QA Automation Course
 
 
 ## Labyrinth Pathfinder with Recursion  
-
+*Issue: This way i got up to ~77 recursion calls, then execution was interrupted... no crash, just interrupted.*  
 ![alt text](https://github.com/Jmlucero1984/PSeintExamples/blob/main/Labyrinth%20Recursion.gif?raw=true)
 
 ## Labyrinth Pathfinder with No Recursion (double While)  
-
+*Pro: You can perform on much more bigger mazes, with no recursion call-stack issues.*  
 ![alt text](https://github.com/Jmlucero1984/PSeintExamples/blob/main/Labyrinth%20No%20Recursion.gif?raw=true)
 
 ## Simil Dynamic Vector Dimensioning (using recursion) and Ordering
