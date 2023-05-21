@@ -4,19 +4,19 @@ Some stuff on PSeint at Globant+Egg QA Automation Course
 
 ## ResumenVentasEmpresa_MapaIncluido.psc
 
-*Example of ResumenVentasEmpresa_MapaIncluido.psc output*
+*Example of ResumenVentasEmpresa_MapaIncluido.psc output*  
 
 ![alt text](https://github.com/Jmlucero1984/PSeintExamples/blob/main/map.JPG?raw=true)
 
 
 
-## Labyrinth Pathfinder with Recursion 
+## Labyrinth Pathfinder with Recursion  
 
 ![alt text](https://github.com/Jmlucero1984/PSeintExamples/blob/main/Labyrinth%20Recursion.gif?raw=true)
 
 
 
-## Labyrinth Pathfinder with No Recursion (double While)
+## Labyrinth Pathfinder with No Recursion (double While)  
 
 ![alt text](https://github.com/Jmlucero1984/PSeintExamples/blob/main/Labyrinth%20No%20Recursion.gif?raw=true)
 
@@ -26,7 +26,7 @@ Some stuff on PSeint at Globant+Egg QA Automation Course
 In particular, i'd like to highlight this little tricky method to find matrix dimension.
 Althought we start from assumptions:  
 		a) We deal with a matrix (at least 2 rows and 2 columns).  
-		b) The the matrix data type is known.  
+		b) The matrix data type is known.  
 	
  ```
 /// DIMC and DIMR are the ones we are looking for, but i have to pass them via reference to take back the values after ///
