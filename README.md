@@ -10,3 +10,8 @@ Labyrinth Pathfinder with Recursion
 
 ![alt text](https://github.com/Jmlucero1984/PSeintExamples/blob/main/Labyrinth%20Recursion.gif?raw=true)
 
+Labyrinth Pathfinder with No Recursion (double While)
+
+![alt text](https://github.com/Jmlucero1984/PSeintExamples/blob/main/Labyrinth%20No%20Recursion.gif?raw=true)
+
+ 
