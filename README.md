@@ -24,9 +24,13 @@ Some stuff on PSeint at Globant+Egg QA Automation Course
 ## AlignWordsFullFlexible
 
 In particular, i'd like to highlight this little tricky method to find matrix dimension.
-
+Althought we start from assumptions:
+	a) We deal with a matrix (at least 2 rows and 2 columns)
+	b) The the matrix data type is known
+	
  ```
-/// DIMC Y DIMR AUN NO LAS CONOZCO, PERO LAS PASO IGUAL PARA PODER OBTENER AMBOS VALORES EN UN MISMO SUBPROCESO ///
+/// DIMC and DIMR are the ones we are looking for, but i have to pass them via reference to take back the values after ///
+/// Using a function only allows me to return just one value (no reference types created under function scope) ///
 
 SubProceso GetColumnsTheHardWay(tablero Por Referencia, dimR Por Referencia,dimC Por Referencia)
 	Definir item, safeBack, safeFront Como Caracter
@@ -51,8 +55,9 @@ SubProceso GetColumnsTheHardWay(tablero Por Referencia, dimR Por Referencia,dimC
 				tablero[1,1]=safeFront
 				dimC=dimC-1;
 			SiNo 
-				safeBack=safeFront
-				safeFront=item
+				// like a juggler, to avoid self iteration referencing
+				safeBack=safeFront 
+				safeFront=item	
 				item="¶"
 				dimC=dimC+1
 			FinSi
