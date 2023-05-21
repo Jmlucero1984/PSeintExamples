@@ -9,11 +9,13 @@ Some stuff on PSeint at Globant+Egg QA Automation Course
 ![alt text](https://github.com/Jmlucero1984/PSeintExamples/blob/main/map.JPG?raw=true)
 
 
-## ResumenVentasEmpresa_MapaIncluido.pscLabyrinth Pathfinder with Recursion 
+## Labyrinth Pathfinder with Recursion 
 
 ![alt text](https://github.com/Jmlucero1984/PSeintExamples/blob/main/Labyrinth%20Recursion.gif?raw=true)
 
-## ResumenVentasEmpresa_MapaIncluido.pscLabyrinth Pathfinder with No Recursion (double While)
+
+
+## Labyrinth Pathfinder with No Recursion (double While)
 
 ![alt text](https://github.com/Jmlucero1984/PSeintExamples/blob/main/Labyrinth%20No%20Recursion.gif?raw=true)
 
