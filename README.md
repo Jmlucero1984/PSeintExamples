@@ -14,6 +14,10 @@ Some stuff on PSeint at Globant+Egg QA Automation Course
 
 ![alt text](https://github.com/Jmlucero1984/PSeintExamples/blob/main/Labyrinth%20Recursion.gif?raw=true)
 
+## Labyrinth Pathfinder with No Recursion (double While)  
+
+![alt text](https://github.com/Jmlucero1984/PSeintExamples/blob/main/Labyrinth%20No%20Recursion.gif?raw=true)
+
 ## Simil Dynamic Vector Dimensioning (using recursion) and Ordering
 
 ![alt text](https://github.com/Jmlucero1984/PSeintExamples/blob/main/DynVectOrdering_1.gif?raw=true)
@@ -21,10 +25,6 @@ Some stuff on PSeint at Globant+Egg QA Automation Course
 *Question: How far can we go deep in recursion? Is there such a thing like Tail Optimization in PSeint?*  
 ![alt text](https://github.com/Jmlucero1984/PSeintExamples/blob/main/DynVectOrdering_2.gif?raw=true)  
  
-## Labyrinth Pathfinder with No Recursion (double While)  
-
-![alt text](https://github.com/Jmlucero1984/PSeintExamples/blob/main/Labyrinth%20No%20Recursion.gif?raw=true)
-
 
 ## Recursive Quick Sort  
 
