@@ -2,7 +2,7 @@
 Some stuff on PSeint at Globant+Egg QA Automation Course
 
 
-## ResumenVentasEmpresa_MapaIncluido.psc
+## Informe de Ventas de Una Empresa + Mapa Resúmen
 
 *Example of ResumenVentasEmpresa_MapaIncluido.psc output*  
 
@@ -14,12 +14,19 @@ Some stuff on PSeint at Globant+Egg QA Automation Course
 
 ![alt text](https://github.com/Jmlucero1984/PSeintExamples/blob/main/Labyrinth%20Recursion.gif?raw=true)
 
+## Simil Dynamic Vector Dimensioning (using recursion) and Ordering
 
-
+![alt text](https://github.com/Jmlucero1984/PSeintExamples/blob/main/DynVectOrdering_1.gif?raw=true)  
+![alt text](https://github.com/Jmlucero1984/PSeintExamples/blob/main/DynVectOrdering_2.gif?raw=true)  
+ 
 ## Labyrinth Pathfinder with No Recursion (double While)  
 
 ![alt text](https://github.com/Jmlucero1984/PSeintExamples/blob/main/Labyrinth%20No%20Recursion.gif?raw=true)
 
+
+## Recursive Quick Sort  
+
+![alt text](https://github.com/Jmlucero1984/PSeintExamples/blob/main/RecursiveQuickSort.gif?raw=true)  
 
 ## AlignWordsFullFlexible
 
@@ -66,3 +73,5 @@ SubProceso GetColumnsTheHardWay(tablero Por Referencia, dimR Por Referencia,dimC
 	dimR=lenght/dimC
 FinFuncion
 ```
+
+
