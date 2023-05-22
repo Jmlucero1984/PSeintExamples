@@ -8,6 +8,16 @@ Some stuff on PSeint at Globant+Egg QA Automation Course
 
 ![alt text](https://github.com/Jmlucero1984/PSeintExamples/blob/main/map.JPG?raw=true)
 
+## PSeint Hybrid CommandLine-GUI
+
+ ![alt text](https://github.com/Jmlucero1984/PSeintExamples/blob/main/GUI.gif?raw=true)
+*IN PROGRESS...*  
+- [x] Customize windows, options and descriptions
+- [x] Dynamically determined menu movement range
+- [x] Reusable window drawer
+- [ ] All in-one each selection to function
+- [ ] Resizable on the run
+
 
 
 ## Labyrinth Pathfinder with Recursion  
