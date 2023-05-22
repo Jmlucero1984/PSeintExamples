@@ -8,7 +8,7 @@ Some stuff on PSeint at Globant+Egg QA Automation Course
 
 ![alt text](https://github.com/Jmlucero1984/PSeintExamples/blob/main/map.JPG?raw=true)
 
-## PSeint Hybrid CommandLine-GUI - WindowsProject.psc
+## PSeint Hybrid CommandLine+GUI - WindowsProject.psc
 *IN PROGRESS...*  
  ![alt text](https://github.com/Jmlucero1984/PSeintExamples/blob/main/GUI.gif?raw=true)
 
