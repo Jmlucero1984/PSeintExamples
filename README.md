@@ -18,9 +18,20 @@ Some stuff on PSeint at Globant+Egg QA Automation Course
 - [ ] All in-one each selection to function
 - [ ] Resizable on the run
 
+## Linear Regression CommandLine+GUI - GraphicWindow_AllMatrix.psc
+*CLOSED due to PSeint limitations, increasing and continuos crashes*  
+ ![alt text](https://github.com/Jmlucero1984/PSeintExamples/blob/main/LinealRegression.gif?raw=true)
+ 
+ -[x] Customize windows, options and descriptions
+- [x] Dynamically determined menu movement range
+- [X] All matrix methods
+- [X] Dynamically resized table
+- [X] Auto-adjustable axis range
+- [ ] Reusable window drawer
+- [ ] All in-one each selection to function
+- [ ] Resizable on the run
 
-
-## Labyrinth Pathfinder with Recursion  
+# Labyrinth Pathfinder with Recursion  
 *Issue: This way i got up to ~77 recursion calls, then execution was interrupted... no crash, just interrupted.*  
 ![alt text](https://github.com/Jmlucero1984/PSeintExamples/blob/main/Labyrinth%20Recursion.gif?raw=true)
 
