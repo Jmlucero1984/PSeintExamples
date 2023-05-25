@@ -22,7 +22,7 @@ Some stuff on PSeint at Globant+Egg QA Automation Course
 *CLOSED due to PSeint limitations, increasing and continuos crashes*  
  ![alt text](https://github.com/Jmlucero1984/PSeintExamples/blob/main/LinealRegression.gif?raw=true)
  
- -[x] Customize windows, options and descriptions
+- [x] Customize windows, options and descriptions
 - [x] Dynamically determined menu movement range
 - [X] All matrix methods
 - [X] Dynamically resized table
