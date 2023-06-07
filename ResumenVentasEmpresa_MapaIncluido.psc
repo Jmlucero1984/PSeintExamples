@@ -102,7 +102,6 @@ FinAlgoritmo
 
 SubProceso ImprimerEncabezado
 	Escribir "/////////////////////////////////////////////////////////  NESCAFÉ ~ RESÚMEN DE VENTAS-VENDEDOR-REGIÓN  ///////////////////////////////////////////////////////// "
-	Escribir "                                                           ~ By José Ma Lucero & María del Mar Serra ~                                                            "
 	Escribir ""
 Fin Subproceso
 
